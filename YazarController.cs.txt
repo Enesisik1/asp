@@ -1,0 +1,10 @@
+using Microsoft.AspNetCore.Mvc;
+
+public class yazarController: Controller
+{
+    public string Index()
+    {
+        return "yazar controller sınıfındaki ındex çalıştı";
+    }
+   
+}

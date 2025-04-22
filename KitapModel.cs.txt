@@ -1,0 +1,6 @@
+ublic class KitapModel //kitap model class'ına ait özellikler
+{
+    public int KitapId{get;set;}
+    public string KitapAdi{get;set;}
+    public int SayfaSayisi{get;set;}
+}

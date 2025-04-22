@@ -1,0 +1,4 @@
+public class KategoriModel{//kategori class'ına ait bazı özellikler
+    public int KategoriId{get;set;}
+    public string KategoriAdi{get;set;}
+} 
